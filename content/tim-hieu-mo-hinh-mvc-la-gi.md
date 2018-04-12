@@ -5,7 +5,7 @@ date: 2015-01-04 14:58:21.000000000 -05:00
 tags: [mvc]
 ---
 
-Nếu bạn là một lập trình viên, nhất là lập trình web, sẽ rất khó để bạn có thể xin được việc nếu không biết mô hình MVC. Trong post này mình sẽ trình bày đến các bạn mô hình MVC là gì theo cách hiểu của mình qua một vài dự án sử dụng MVC?
+Nếu bạn là một lập trình viên, nhất là lập trình web, sẽ rất khó để bạn có thể xin được việc nếu không biết mô hình MVC. Trong post này mình sẽ trình bày đến các bạn mô hình MVC là gì theo cách hiểu của mình qua một vài dự án sử dụng MVC ?
 
 # MVC là gì?
 
